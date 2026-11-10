@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "username": "Shihab-Eldin-Ibrahim",
+  "fetched_at": "2026-11-10T14:25:50Z",
+  "snapshot_date_utc": "2026-11-10",
+  "public_repositories": 7,
+  "project_repositories": 6,
+  "primary_language_counts": {
+    "Python": 4,
+    "TypeScript": 1
+  },
+  "latest_project_push": "2026-10-02T10:59:08Z",
+  "language_bytes": {
+    "Batchfile": 1307,
+    "CSS": 488,
+    "JavaScript": 559,
+    "Python": 456913,
+    "TypeScript": 2971
+  },
+  "repositories": [
+    {
+      "name": "Ai-Face-Attendance-System",
+      "url": "https://github.com/Shihab-Eldin-Ibrahim/Ai-Face-Attendance-System",
+      "primary_language": "Python",
+      "pushed_at": "2026-05-17T15:54:14Z",
+      "language_bytes": {
+        "Python": 7093
+      }
+    },
+    {
+      "name": "EIDOS-BCI",
+      "url": "https://github.com/Shihab-Eldin-Ibrahim/EIDOS-BCI",
+      "primary_language": "Python",
+      "pushed_at": "2026-10-02T10:59:08Z",
+      "language_bytes": {
+        "Python": 402105
+      }
+    },
+    {
+      "name": "heart-disease-analysis",
+      "url": "https://github.com/Shihab-Eldin-Ibrahim/heart-disease-analysis",
+      "primary_language": "Python",
+      "pushed_at": "2026-06-10T23:01:00Z",
+      "language_bytes": {
+        "Batchfile": 1307,
+        "Python": 43084
+      }
+    },
+    {
+      "name": "Rat-in-maze-",
+      "url": "https://github.com/Shihab-Eldin-Ibrahim/Rat-in-maze-",
+      "primary_language": "Python",
+      "pushed_at": "2026-05-17T15:54:54Z",
+      "language_bytes": {
+        "Python": 4631
+      }
+    },
+    {
+      "name": "Trunk-Mode-cisco-packet-tracer-project",
+      "url": "https://github.com/Shihab-Eldin-Ibrahim/Trunk-Mode-cisco-packet-tracer-project",
+      "primary_language": null,
+      "pushed_at": "2026-05-17T15:56:03Z",
+      "language_bytes": {}
+    },
+    {
+      "name": "workbook-web",
+      "url": "https://github.com/Shihab-Eldin-Ibrahim/workbook-web",
+      "primary_language": "TypeScript",
+      "pushed_at": "2026-07-17T13:50:50Z",
+      "language_bytes": {
+        "CSS": 488,
+        "JavaScript": 559,
+        "TypeScript": 2971
+      }
+    }
+  ],
+  "definitions": {
+    "public_repositories": "All publicly visible repositories owned by the account, including forks and the profile repository.",
+    "project_repositories": "Public repositories excluding forks, archived repositories and the username-named profile repository.",
+    "primary_language_counts": "Number of included project repositories assigned each primary language by GitHub.",
+    "latest_project_push": "Latest GitHub pushed_at timestamp among included project repositories; not a commit or contribution count.",
+    "language_bytes": "Sum of GitHub language API bytes across included project repositories; not proficiency or time spent coding."
+  },
+  "source": "https://api.github.com/users/Shihab-Eldin-Ibrahim/repos"
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="208" viewBox="0 0 420 208" role="img" aria-labelledby="title desc">
+  <title id="title">Public GitHub repository snapshot</title>
+  <desc id="desc">GitHub snapshot on 2026-11-10 UTC: 7 public repositories, 4 Python-primary project repositories. Latest project repository push: 2026-10-02. Project metrics exclude forks, archived repositories and this profile repository.</desc>
+  <rect x="0.5" y="0.5" width="419" height="207" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#F0F3F6">
+    <text x="24" y="34" font-size="20" font-weight="600">Engineering in public</text>
+    <circle cx="388" cy="27" r="4" fill="#5EEAD4"/>
+    <text x="24" y="91" font-size="42" font-weight="700" fill="#5EEAD4">7</text>
+    <text x="24" y="119" font-size="18">Public repositories</text>
+    <path d="M219 60V125" stroke="#30363D"/>
+    <text x="244" y="91" font-size="42" font-weight="700" fill="#A78BFA">4</text>
+    <text x="244" y="119" font-size="18">Python projects</text>
+    <path d="M24 144H396" stroke="#30363D"/>
+    <text x="24" y="171" font-size="18" fill="#AAB6C5">Last project push</text>
+    <text x="396" y="171" text-anchor="end" font-size="18">2026-10-02</text>
+    <text x="24" y="194" font-size="11" fill="#AAB6C5">Snapshot 2026-11-10 UTC · public GitHub data</text>
+  </g>
+</svg>

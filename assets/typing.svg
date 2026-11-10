@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="56" viewBox="0 0 500 56" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Research and engineering interests</title>
+  <desc id="desc">Brain-Computer Interface Research; AI and Machine Learning; Embedded Systems and Electronics.</desc>
+  <defs>
+    <clipPath id="typing"><rect class="reveal" x="21" y="8" width="466" height="40"/></clipPath>
+    <style>
+      text{font-family:Consolas,'Liberation Mono',monospace;font-size:22px;fill:#5EEAD4}
+      .reveal{animation:type 6s steps(34,end) infinite}
+      .first{opacity:1;animation:first 18s step-end infinite}
+      .second{opacity:0;animation:second 18s step-end infinite}
+      .third{opacity:0;animation:third 18s step-end infinite}
+      @keyframes type{0%{width:0}62%,96%{width:466px}100%{width:0}}
+      @keyframes first{0%{opacity:1}33.333%{opacity:0}100%{opacity:1}}
+      @keyframes second{0%{opacity:0}33.333%{opacity:1}66.666%{opacity:0}}
+      @keyframes third{0%{opacity:0}66.666%{opacity:1}100%{opacity:0}}
+      @media(prefers-reduced-motion:reduce){.reveal,.first,.second,.third{animation:none}.reveal{width:466px}.first{opacity:1}.second,.third{opacity:0}}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="499" height="55" rx="10" fill="#0D1117" stroke="#253543"/>
+  <path d="M4 24L10 29L4 34" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g clip-path="url(#typing)">
+    <text x="22" y="36" class="first">Brain-Computer Interface Research</text>
+    <text x="22" y="36" class="second">AI &amp; Machine Learning</text>
+    <text x="22" y="36" class="third">Embedded Systems &amp; Electronics</text>
+  </g>
+</svg>

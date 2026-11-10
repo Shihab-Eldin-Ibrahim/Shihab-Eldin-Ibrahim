@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="208" viewBox="0 0 420 208" role="img" aria-labelledby="title desc">
+  <title id="title">Public project programming languages</title>
+  <desc id="desc">Public project code by GitHub language bytes, snapshot 2026-11-10 UTC. Python: 456,913 bytes; TypeScript: 2,971 bytes; Batchfile: 1,307 bytes; JavaScript: 559 bytes; CSS: 488 bytes. Excludes forks, archived repositories and this profile repository. These proportions are not proficiency.</desc>
+  <rect x="0.5" y="0.5" width="419" height="207" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#F0F3F6">
+    <text x="24" y="32" font-size="20" font-weight="600">Public code by bytes</text>
+    <text x="24" y="51" font-size="11" fill="#AAB6C5">GitHub language bytes, not proficiency</text>
+    <rect x="24" y="65" width="372" height="10" fill="#21262D"/>
+    <rect x="24.000" y="65" width="367.715" height="10" fill="#5EEAD4"/>
+    <rect x="391.715" y="65" width="2.391" height="10" fill="#A78BFA"/>
+    <rect x="394.106" y="65" width="1.894" height="10" fill="#7DD3FC"/>
+    <circle cx="28" cy="99" r="4" fill="#5EEAD4"/>
+    <text x="42" y="105" font-size="18">Python</text>
+    <text x="396" y="105" font-size="18" text-anchor="end">98.8%</text>
+    <circle cx="28" cy="128" r="4" fill="#A78BFA"/>
+    <text x="42" y="134" font-size="18">TypeScript</text>
+    <text x="396" y="134" font-size="18" text-anchor="end">0.6%</text>
+    <circle cx="28" cy="157" r="4" fill="#7DD3FC"/>
+    <text x="42" y="163" font-size="18">Other</text>
+    <text x="396" y="163" font-size="18" text-anchor="end">0.5%</text>
+    <text x="24" y="194" font-size="11" fill="#AAB6C5">Snapshot 2026-11-10 UTC · project repositories only</text>
+  </g>
+</svg>

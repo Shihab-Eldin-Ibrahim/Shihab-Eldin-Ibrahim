@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">From signals to systems.</title>
+  <desc id="desc">A gently animated circuit trace closes the profile.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="480" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#111C29"/><stop offset="1" stop-color="#090F17"/></linearGradient>
+    <style>text{font-family:'Segoe UI',Arial,sans-serif}.trace{stroke-dasharray:35 470;animation:flow 9s linear infinite}@keyframes flow{to{stroke-dashoffset:-505}}@media(prefers-reduced-motion:reduce){.trace{animation:none;stroke-dasharray:none;opacity:.5}}</style>
+  </defs>
+  <rect x=".5" y=".5" width="479" height="149" rx="14" fill="url(#panel)" stroke="#253543"/>
+  <text x="29" y="59" fill="#F0F3F6" font-size="32" font-weight="500" letter-spacing="-.7">From signals to systems<tspan fill="#5EEAD4">.</tspan></text>
+  <path d="M30 107H112L132 90H207L226 107H267L286 124H363L384 107H449" stroke="#355161" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M30 107H112L132 90H207L226 107H267L286 124H363L384 107H449" class="trace" stroke="#5EEAD4" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="30" cy="107" r="4" fill="#090F17" stroke="#5EEAD4"/>
+  <circle cx="449" cy="107" r="4" fill="#A78BFA"/>
+</svg>

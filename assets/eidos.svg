@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285" viewBox="0 0 1000 285" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">EIDOS-BCI: Motor imagery. Unseen subjects.</title>
+  <desc id="desc">Ongoing Brain-Computer Interface research. A pipeline from EEG signals through CSP and FBCSP spatial features to subject-wise evaluation.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="285" gradientUnits="userSpaceOnUse"><stop stop-color="#111C29"/><stop offset="1" stop-color="#0A1019"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset=".58" stop-color="#5EEAD4" stop-opacity=".1"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".45"/></linearGradient>
+    <style>
+      text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}
+      .travel{stroke-dasharray:12 150;animation:flow 6s linear infinite}
+      .pulse{animation:pulse 4s ease-in-out infinite}
+      @keyframes flow{to{stroke-dashoffset:-162}}
+      @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){.travel,.pulse{animation:none}.travel{stroke-dasharray:none;opacity:.5}}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="284" rx="16" fill="url(#panel)" stroke="#2B3C49"/>
+  <path d="M20 1H980" stroke="url(#edge)"/>
+  <text x="36" y="40" class="mono" font-size="13" letter-spacing="2" fill="#5EEAD4">01 / FEATURED RESEARCH</text>
+  <text x="33" y="101" font-size="50" font-weight="650" letter-spacing="-1.6" fill="#F0F3F6">EIDOS-BCI</text>
+  <text x="36" y="139" font-size="24" fill="#BCCDD9">Motor imagery. Unseen subjects.</text>
+  <circle cx="790" cy="37" r="4" fill="#A78BFA" class="pulse"/>
+  <text x="805" y="42" class="mono" font-size="13" letter-spacing=".7" fill="#C0AFF2">ONGOING RESEARCH</text>
+  <path d="M653 112H697L707 100L719 123L732 110H749L762 91L776 137L793 75L812 143L831 99L843 117L856 112H876L888 96L902 123L916 106L929 112H963" stroke="#5EEAD4" stroke-opacity=".14" stroke-width="2" stroke-linejoin="round"/>
+  <g>
+    <rect x="36" y="180" width="274" height="69" rx="10" fill="#0A141F" stroke="#263E4B"/>
+    <path d="M54 215H67L74 207L81 225L90 198L100 231L109 209L117 215H130" stroke="#5EEAD4" stroke-width="2" stroke-linejoin="round"/>
+    <text x="148" y="209" font-size="18" font-weight="600" fill="#E1EAF0">EEG signals</text>
+    <text x="148" y="230" class="mono" font-size="12" fill="#8DA6B9">MOTOR IMAGERY</text>
+    <path d="M319 214H352M346 208L352 214L346 220" stroke="#486273" stroke-width="1.5"/>
+    <path class="travel" d="M319 214H352" stroke="#5EEAD4" stroke-width="2"/>
+    <rect x="364" y="180" width="274" height="69" rx="10" fill="#0A141F" stroke="#263E4B"/>
+    <g fill="#365862"><rect x="385" y="199" width="8" height="8" rx="2" fill="#5EEAD4"/><rect x="398" y="199" width="8" height="8" rx="2"/><rect x="411" y="199" width="8" height="8" rx="2"/><rect x="385" y="212" width="8" height="8" rx="2"/><rect x="398" y="212" width="8" height="8" rx="2" fill="#5EEAD4"/><rect x="411" y="212" width="8" height="8" rx="2"/><rect x="385" y="225" width="8" height="8" rx="2"/><rect x="398" y="225" width="8" height="8" rx="2"/><rect x="411" y="225" width="8" height="8" rx="2" fill="#5EEAD4"/></g>
+    <text x="442" y="209" font-size="18" font-weight="600" fill="#E1EAF0">Spatial features</text>
+    <text x="442" y="230" class="mono" font-size="12" fill="#8DA6B9">CSP / FBCSP</text>
+    <path d="M647 214H680M674 208L680 214L674 220" stroke="#486273" stroke-width="1.5"/>
+    <path class="travel" d="M647 214H680" stroke="#A78BFA" stroke-width="2"/>
+    <rect x="692" y="180" width="272" height="69" rx="10" fill="#0E1422" stroke="#3A3558"/>
+    <g fill="#A78BFA"><rect x="715" y="213" width="8" height="18" rx="2" opacity=".5"/><rect x="729" y="201" width="8" height="30" rx="2" opacity=".75"/><rect x="743" y="207" width="8" height="24" rx="2"/></g>
+    <text x="773" y="209" font-size="18" font-weight="600" fill="#E1EAF0">Evaluation</text>
+    <text x="773" y="230" class="mono" font-size="12" fill="#AD9ECB">SUBJECT-WISE / LOSO</text>
+  </g>
+</svg>

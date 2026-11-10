@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="380" viewBox="0 0 480 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Shihab-Eldin Ibrahim Shehu</title>
+  <desc id="desc">Electrical Communications and Computer Engineering student. Nahda University, Egypt.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="480" y2="380" gradientUnits="userSpaceOnUse"><stop stop-color="#121E2B"/><stop offset="1" stop-color="#090F17"/></linearGradient>
+    <linearGradient id="signal" x1="31" x2="449" y1="290" y2="290" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4" stop-opacity=".15"/><stop offset=".45" stop-color="#5EEAD4"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <style>
+      text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}
+      .trace{stroke-dasharray:60 650;animation:scan 8s linear infinite}
+      @keyframes scan{to{stroke-dashoffset:-710}}
+      @media(prefers-reduced-motion:reduce){.trace{animation:none;stroke-dasharray:none;opacity:.5}}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="479" height="379" rx="16" fill="url(#panel)" stroke="#253543"/>
+  <path d="M31 35H53" stroke="#5EEAD4" stroke-width="3"/>
+  <text x="64" y="40" class="mono" font-size="14" letter-spacing="1.4" fill="#A3B6C7">SIGNALS / SYSTEMS / SOFTWARE</text>
+  <text x="29" y="104" font-size="46" font-weight="650" letter-spacing="-1.6" fill="#F0F3F6">Shihab-Eldin</text>
+  <text x="29" y="157" font-size="46" font-weight="650" letter-spacing="-1.6" fill="#F0F3F6">Ibrahim Shehu<tspan fill="#5EEAD4">.</tspan></text>
+  <text x="31" y="204" font-size="24" fill="#C6D3DE">Electrical Communications</text>
+  <text x="31" y="237" font-size="24" fill="#C6D3DE">&amp; Computer Engineering student</text>
+  <g stroke="#294551"><path d="M31 271H130L147 254H301L318 271H449"/><path d="M31 309H131L145 324H310L325 309H449"/><circle cx="240" cy="291" r="32"/></g>
+  <path d="M31 291H123L132 284L142 298L154 291H177L187 276L199 310L213 265L230 318L246 279L259 295L271 291H305L317 279L330 300L343 287L354 291H449" stroke="url(#signal)" stroke-width="2.3" stroke-linejoin="round"/>
+  <path class="trace" d="M31 291H123L132 284L142 298L154 291H177L187 276L199 310L213 265L230 318L246 279L259 295L271 291H305L317 279L330 300L343 287L354 291H449" stroke="#D3FFF4" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="31" y="355" class="mono" font-size="17" letter-spacing=".8" fill="#A3B6C7">NAHDA UNIVERSITY</text>
+  <circle cx="376" cy="349" r="3" fill="#5EEAD4"/>
+  <text x="391" y="355" class="mono" font-size="17" fill="#A3B6C7">EGYPT</text>
+</svg>

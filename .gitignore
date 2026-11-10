@@ -1,0 +1,16 @@
+.research/
+.preview/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+env/
+node_modules/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+.env
+.env.*
+!.env.example
